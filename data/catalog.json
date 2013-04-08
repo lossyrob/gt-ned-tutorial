@@ -1,0 +1,13 @@
+{
+ "catalog": "Catalog of Rob's Data",
+ "stores": [
+  {
+   "store": "NED data",
+   "params": {
+     "type": "fs",
+     "path": "/home/rob/data/ned",
+     "cacheAll": "no"
+   }
+  }
+ ]
+}
