@@ -5,7 +5,7 @@
    "store": "NED data",
    "params": {
      "type": "fs",
-     "path": "/home/rob/data/ned",
+     "path": "data/ned",
      "cacheAll": "no"
    }
   }
